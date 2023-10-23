@@ -1,3 +1,12 @@
+#Amazon Clone
+
+
+![photo_2023-10-23_16-54-28](https://github.com/grouciyacine/amazon-client/assets/107037694/5fa55ec9-693b-4d81-a20d-e8769b915bef)
+
+![Capture d’écran 2023-10-23 165453](https://github.com/grouciyacine/amazon-client/assets/107037694/bf3906d5-a55d-4537-9b8b-bb2a1ad27b30)
+
+![Capture d’écran 2023-10-23 165513](https://github.com/grouciyacine/amazon-client/assets/107037694/79658816-7efb-41a4-a154-b6c02d7c0195)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
